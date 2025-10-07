@@ -1,0 +1,21 @@
+{
+  "recommended_price": 114.0,
+  "margin_floor": 105.8,
+  "P_lowest": 112.0,
+  "P_top3": 115.0,
+  "notes": [
+    "Strategy: within_top3 (upper bound)"
+  ],
+  "anchors": [
+    {
+      "source": "amazon",
+      "comparable_price": 112.0,
+      "url": "https://www.example.com/amazon-d"
+    },
+    {
+      "source": "flipkart",
+      "comparable_price": 115.0,
+      "url": "https://www.example.com/flipkart-d"
+    }
+  ]
+}

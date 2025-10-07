@@ -1,0 +1,5 @@
+source,product_title,base_price,shipping_fee,cod_fee,coupon_value,in_stock,url,timestamp,pincode,rating,rating_count,https,domain_age_years,has_policy_pages
+amazon,Dettol Liquid Handwash Refill 750ml,112.0,0.0,0.0,0.0,True,https://www.example.com/amazon-d,2025-10-07T18:13:14.200428,,4.4,2200,True,28,True
+flipkart,Dettol Liquid Handwash Refill 750 ml,115.0,0.0,0.0,0.0,True,https://www.example.com/flipkart-d,2025-10-07T18:13:14.200428,,4.3,1500,True,17,True
+dmart,Dettol Liquid Handwash Refill 750ml,98.0,0.0,0.0,0.0,True,https://www.example.com/dmart-d,2025-10-07T18:13:14.200428,,4.1,300,True,10,True
+bigbasket,Dettol Liquid Handwash Refill 750ml,118.0,0.0,0.0,5.0,False,https://www.example.com/bigbasket-d,2025-10-07T18:13:14.200428,,4.2,900,True,15,True
