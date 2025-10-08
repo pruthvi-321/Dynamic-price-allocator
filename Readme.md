@@ -13,17 +13,17 @@ This project consists of two key components:
 
 
  Project Structure
-📦pruthvi_project
- ┣ 📂runs
- ┃ ┗ 📂SKU123
- ┃ ┃ ┣ 📜price_display.html
- ┃ ┃ ┣ 📜pricing_data.csv
- ┃ ┃ ┣ 📜SKU123_decision.json
- ┃ ┃ ┗ 📜SKU123_offers.csv
- ┣ 📜competitor_pricing_extractor.ipynb
- ┣ 📜pricing_engine_starter.ipynb
- ┣ 📜requirements.txt
- ┗ 📜sample_offers.csv
+ 📦pruthvi_project
+  ┣ 📂runs
+  ┃ ┗ 📂SKU123
+  ┃ ┃ ┣ 📜price_display.html
+  ┃ ┃ ┣ 📜pricing_data.csv
+  ┃ ┃ ┣ 📜SKU123_decision.json
+  ┃ ┃ ┗ 📜SKU123_offers.csv
+  ┣ 📜competitor_pricing_extractor.ipynb
+  ┣ 📜pricing_engine_starter.ipynb
+  ┣ 📜requirements.txt
+  ┗ 📜sample_offers.csv
 
 
 
