@@ -84,18 +84,9 @@ It includes data points like:
 
  ### Example Output
 
-After execution, the pricing engine outputs a JSON-like or DataFrame result:
+After execution, the pricing engine outputs a JSON file and the json viewer will display the results in the follownig dashboard:
 
-json
-{
-  "recommended_price": 114.0,
-  "margin_floor": 105.8,
-  "P_lowest": 112.0,
-  "P_top3": 115.0,
-  "strategy": "within_top3",
-  "notes": ["Selected price within top 3 competitor range"]
-}
-
+<img width="1027" height="778" alt="image" src="https://github.com/user-attachments/assets/66c55c51-0b53-4309-8289-fe3441205fa2" />
 
  ### Future Enhancements
 
