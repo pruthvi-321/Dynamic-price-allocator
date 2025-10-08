@@ -12,7 +12,7 @@ This project consists of two key components:
 
 
 
-📁 Project Structure
+### Project Structure
 
 ├── competitor_pricing_extractor.ipynb     # Extracts and cleans competitor pricing data
 ├── pricing_engine_starter.ipynb           # Core logic for computing optimal prices
@@ -20,7 +20,7 @@ This project consists of two key components:
 └── README.md                              # Project documentation
 
 
- 🧩 Features
+ ### Features
 
 * 🔍 Competitor Data Extraction – Reads structured price offers from CSV or web sources.
 * ⚙️ Dynamic Pricing Logic – Implements logic for pricing within target margins or top-N competitors.
@@ -33,7 +33,7 @@ This project consists of two key components:
   * Maintain minimum margin floor
 
 
- 📚 Dataset Description (`SKU123_offers.csv`)
+ ### Dataset Description (`SKU123_offers.csv`)
 
 This dataset represents competitor price offers for a specific SKU (product).
 It includes data points like:
@@ -44,7 +44,7 @@ It includes data points like:
 * (Optional) Additional fields for analysis such as brand, seller, or discount indicators
 
 
- 🧮 Workflow
+ ### Workflow
 
 1. Data Extraction (`competitor_pricing_extractor.ipynb`)
 
@@ -60,9 +60,9 @@ It includes data points like:
    * Exports results with justification notes
 
 
-⚙️ Installation & Setup
+### Installation & Setup
 
- 🧰 Requirements
+ ### Requirements
 
 * Python ≥ 3.9
 * Jupyter Notebook
@@ -73,7 +73,7 @@ It includes data points like:
   
 
 
- ▶️ To Run
+ ### To Run
 
 1. Clone the repository:
 
@@ -92,7 +92,7 @@ It includes data points like:
    * pricing_engine_starter.ipynb
 
 
- 🧾 Example Output
+ ### Example Output
 
 After execution, the pricing engine outputs a JSON-like or DataFrame result:
 
@@ -107,14 +107,14 @@ json
 }
 
 
- 📊 Future Enhancements
+ ### Future Enhancements
 
 * Integrate live web scraping for real-time competitor data.
 * Add reinforcement learning or regression-based dynamic pricing models.
 * Build a dashboard for visual monitoring of price trends.
 * Include price elasticity and demand forecasting components.
 
- 👨‍💻 Author
+ ### Author
 
 **Pruthvi Shivade**
 M.Tech | Thermal Engineering | Application Engineer (CFD) | MBA (Finance & Analytics)
