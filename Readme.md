@@ -14,10 +14,18 @@ This project consists of two key components:
 
 ### Project Structure
 
-├── competitor_pricing_extractor.ipynb     # Extracts and cleans competitor pricing data
-├── pricing_engine_starter.ipynb           # Core logic for computing optimal prices
-├── SKU123_offers.csv                      # Sample dataset containing competitor offers
-└── README.md                              # Project documentation
+📦pruthvi_project
+ ┣ 📂runs
+ ┃ ┗ 📂SKU123
+ ┃ ┃ ┣ 📜price_display.html
+ ┃ ┃ ┣ 📜pricing_data.csv
+ ┃ ┃ ┣ 📜SKU123_decision.json
+ ┃ ┃ ┗ 📜SKU123_offers.csv
+ ┣ 📜competitor_pricing_extractor.ipynb
+ ┣ 📜pricing_engine_starter.ipynb
+ ┣ 📜requirements.txt
+ ┗ 📜sample_offers.csv
+
 
 
  ### Features
