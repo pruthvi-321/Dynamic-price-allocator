@@ -10,41 +10,6 @@ This project consists of two key components:
 1. Competitor Pricing Extractor – Collects and structures competitor price data.
 2. Pricing Engine – Applies rule-based and data-driven logic to generate optimal product prices.
 
-
-
- Project Structure
- 📦pruthvi_project
-  ┣ 📂runs
-  ┃ ┗ 📂SKU123
-  ┃ ┃ ┣ 📜price_display.html
-  ┃ ┃ ┣ 📜pricing_data.csv
-  ┃ ┃ ┣ 📜SKU123_decision.json
-  ┃ ┃ ┗ 📜SKU123_offers.csv
-  ┣ 📜competitor_pricing_extractor.ipynb
-  ┣ 📜pricing_engine_starter.ipynb
-  ┣ 📜requirements.txt
-  ┗ 📜sample_offers.csv
-
-
-
-
-📦pruthvi_project
- ┣ 📂runs
- ┃ ┗ 📂SKU123
- ┃ ┃ ┣ 📜price_display.html
- ┃ ┃ ┣ 📜pricing_data.csv
- ┃ ┃ ┣ 📜SKU123_decision.json
- ┃ ┃ ┗ 📜SKU123_offers.csv
- ┣ 📜competitor_pricing_extractor.ipynb
- ┣ 📜pricing_engine_starter.ipynb
- ┣ 📜requirements.txt
- ┗ 📜sample_offers.csv
-
-
-
-
-
-
  ### Features
 
 * 🔍 Competitor Data Extraction – Reads structured price offers from CSV or web sources.
