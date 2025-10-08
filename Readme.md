@@ -99,8 +99,9 @@ After execution, the pricing engine outputs a JSON file and the json viewer will
 
 **Pruthvi**
 MBA (Analytics & Operations)
-Prof Deepak Shyam
 📫 Contact: [www.linkedin.com/in/pruthvi-t-shivade-56264a19a]
+
+**Prof** Deepak Shyam
 
 
 🏷️ License
