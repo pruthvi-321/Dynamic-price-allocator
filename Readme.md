@@ -14,6 +14,9 @@ This project consists of two key components:
 
 ### Project Structure
 
+
+
+
 📦pruthvi_project
  ┣ 📂runs
  ┃ ┗ 📂SKU123
@@ -25,6 +28,9 @@ This project consists of two key components:
  ┣ 📜pricing_engine_starter.ipynb
  ┣ 📜requirements.txt
  ┗ 📜sample_offers.csv
+
+
+
 
 
 
